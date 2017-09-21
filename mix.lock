@@ -1,4 +1,4 @@
-%{"bunt": {:hex, :bunt, "0.1.4"},
-  "credo": {:hex, :credo, "0.3.1"},
-  "earmark": {:hex, :earmark, "0.2.1"},
-  "ex_doc": {:hex, :ex_doc, "0.11.4"}}
+%{"bunt": {:hex, :bunt, "0.1.4", "a1d555a2f50d5f402a579ca08cfdc8afe15d85494bd729c9b3a46ac7266d0081", [], [], "hexpm"},
+  "credo": {:hex, :credo, "0.3.1", "c50a0c2487aa1086531eab672b5dd0baf18652592f407e36d3ca3ef22da8eea1", [], [{:bunt, "~> 0.1.4", [hex: :bunt, repo: "hexpm", optional: false]}], "hexpm"},
+  "earmark": {:hex, :earmark, "0.2.1", "ba6d26ceb16106d069b289df66751734802777a3cbb6787026dd800ffeb850f3", [], [], "hexpm"},
+  "ex_doc": {:hex, :ex_doc, "0.11.4", "a064bdb720594c3745b94709b17ffb834fd858b4e0c1f48f37c0d92700759e02", [], [{:earmark, "~> 0.1.17 or ~> 0.2", [hex: :earmark, repo: "hexpm", optional: true]}], "hexpm"}}
